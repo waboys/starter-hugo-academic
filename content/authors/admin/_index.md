@@ -1,7 +1,7 @@
 ---
 title: Wade Boys (he/him/his)
 role: PhD Student, University of Arkansas
-avatar_filename: prof.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include freshwater ecology, phenotypic plasticity,
   global change ecology, and species distributions
 interests: []
