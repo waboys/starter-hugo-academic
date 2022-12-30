@@ -18,10 +18,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/waboys
-  - icon: cv
-    icon_pack: ai
-    link: '"C:\Users\wadea\Documents\Research\Application
-      Materials\wab_cv_2022.docx"'
 organizations:
   - name: University of Arkansas
     url: ""
