@@ -7,7 +7,7 @@ bio: My research interests include freshwater ecology, phenotypic plasticity,
 interests: []
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: ai
     link: /#contact
   - icon: twitter
     icon_pack: fab
