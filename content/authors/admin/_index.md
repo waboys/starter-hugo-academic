@@ -16,13 +16,13 @@ social:
     display:
       header: true
   - icon: github
-    icon_pack: fab
+    icon_pack: ai
     link: https://github.com/waboys
   - display:
       header: false
     link: assets/media/wab_cv_2022.docx
     icon_pack: ai
-    icon: CV
+    icon: cv
 organizations:
   - name: University of Arkansas
     url: ""
